@@ -1,13 +1,61 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "BLOGPAGE",
+    "title": "Hai&#x27;s Web",
     "description": "",
     "home_page_url": "https://hvo153.github.io/blog-page",
     "feed_url": "https://hvo153.github.io/blog-page/feed.json",
     "user_comment": "",
+    "icon": "https://hvo153.github.io/blog-page/media/website/0.jpg",
     "author": {
-        "name": "hai vo"
+        "name": "Võ Hồng Hải"
     },
     "items": [
+        {
+            "id": "https://hvo153.github.io/blog-page/chungcook.html",
+            "url": "https://hvo153.github.io/blog-page/chungcook.html",
+            "title": "Chungcook",
+            "summary": "Chungbicook",
+            "content_html": "<h1>Chungbicook</h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hvo153.github.io/blog-page/media/posts/4/2.jpg\" alt=\"\" width=\"736\" height=\"983\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://hvo153.github.io/blog-page/media/posts/4/responsive/2-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-xl.jpg 1024w\"></figure>",
+            "image": "https://hvo153.github.io/blog-page/media/posts/4/2-2.jpg",
+            "author": {
+                "name": "Võ Hồng Hải"
+            },
+            "tags": [
+                   "Bài đăng"
+            ],
+            "date_published": "2024-12-23T15:45:02+07:00",
+            "date_modified": "2024-12-23T15:45:14+07:00"
+        },
+        {
+            "id": "https://hvo153.github.io/blog-page/hong-hai.html",
+            "url": "https://hvo153.github.io/blog-page/hong-hai.html",
+            "title": "Hong Hai",
+            "summary": "Hong Hai",
+            "content_html": "<h1>Hong Hai <figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hvo153.github.io/blog-page/media/posts/3/1.jpg\" alt=\"\" width=\"736\" height=\"736\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://hvo153.github.io/blog-page/media/posts/3/responsive/1-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-xl.jpg 1024w\"></figure></h1>",
+            "image": "https://hvo153.github.io/blog-page/media/posts/3/1-2.jpg",
+            "author": {
+                "name": "Võ Hồng Hải"
+            },
+            "tags": [
+                   "Bài đăng"
+            ],
+            "date_published": "2024-12-23T15:42:37+07:00",
+            "date_modified": "2024-12-23T15:42:37+07:00"
+        },
+        {
+            "id": "https://hvo153.github.io/blog-page/about-me2.html",
+            "url": "https://hvo153.github.io/blog-page/about-me2.html",
+            "title": "About me",
+            "summary": "Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công&hellip;",
+            "content_html": "<p>Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM.Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.</p>\n<p> </p>",
+            "author": {
+                "name": "Võ Hồng Hải"
+            },
+            "tags": [
+                   "Profile"
+            ],
+            "date_published": "2024-12-23T15:23:15+07:00",
+            "date_modified": "2024-12-23T15:58:33+07:00"
+        }
     ]
 }

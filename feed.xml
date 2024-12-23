@@ -1,12 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>BLOGPAGE</title>
+    <title>Hai&#x27;s Web</title>
     <link href="https://hvo153.github.io/blog-page/feed.xml" rel="self" />
     <link href="https://hvo153.github.io/blog-page" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2024-12-23T15:58:33+07:00</updated>
     <author>
-        <name>hai vo</name>
+        <name>Võ Hồng Hải</name>
     </author>
     <id>https://hvo153.github.io/blog-page</id>
 
+    <entry>
+        <title>Chungcook</title>
+        <author>
+            <name>Võ Hồng Hải</name>
+        </author>
+        <link href="https://hvo153.github.io/blog-page/chungcook.html"/>
+        <id>https://hvo153.github.io/blog-page/chungcook.html</id>
+        <media:content url="https://hvo153.github.io/blog-page/media/posts/4/2-2.jpg" medium="image" />
+            <category term="Bài đăng"/>
+
+        <updated>2024-12-23T15:45:02+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hvo153.github.io/blog-page/media/posts/4/2-2.jpg" alt="" />
+                    Chungbicook
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hvo153.github.io/blog-page/media/posts/4/2-2.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>Chungbicook</h1>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/4/2.jpg" alt="" width="736" height="983" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/4/responsive/2-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/4/responsive/2-xl.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hong Hai</title>
+        <author>
+            <name>Võ Hồng Hải</name>
+        </author>
+        <link href="https://hvo153.github.io/blog-page/hong-hai.html"/>
+        <id>https://hvo153.github.io/blog-page/hong-hai.html</id>
+        <media:content url="https://hvo153.github.io/blog-page/media/posts/3/1-2.jpg" medium="image" />
+            <category term="Bài đăng"/>
+
+        <updated>2024-12-23T15:42:37+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hvo153.github.io/blog-page/media/posts/3/1-2.jpg" alt="" />
+                    Hong Hai
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hvo153.github.io/blog-page/media/posts/3/1-2.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>Hong Hai <figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/3/1.jpg" alt="" width="736" height="736" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/3/responsive/1-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/3/responsive/1-xl.jpg 1024w"></figure></h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Võ Hồng Hải</name>
+        </author>
+        <link href="https://hvo153.github.io/blog-page/about-me2.html"/>
+        <id>https://hvo153.github.io/blog-page/about-me2.html</id>
+            <category term="Profile"/>
+
+        <updated>2024-12-23T15:23:15+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM.Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
