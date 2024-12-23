@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BLOGPAGE</title>
+    <link href="https://hvo153.github.io/blog-page/feed.xml" rel="self" />
+    <link href="https://hvo153.github.io/blog-page" />
+    <updated>1970-01-01T07:00:00+07:00</updated>
+    <author>
+        <name>hai vo</name>
+    </author>
+    <id>https://hvo153.github.io/blog-page</id>
+
+</feed>
