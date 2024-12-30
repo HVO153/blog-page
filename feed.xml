@@ -3,7 +3,7 @@
     <title>Hai&#x27;s Web</title>
     <link href="https://hvo153.github.io/blog-page/feed.xml" rel="self" />
     <link href="https://hvo153.github.io/blog-page" />
-    <updated>2024-12-30T19:05:13+07:00</updated>
+    <updated>2024-12-30T19:07:46+07:00</updated>
     <author>
         <name>Võ Hồng Hải</name>
     </author>
@@ -23,13 +23,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" alt="" />
-                    public class Main { public static void main(String[] args) { try {&hellip;
+                    1. Các Thành Phần Cơ Bản Biến (Variable) Biến là nơi lưu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" class="type:primaryImage" alt="" /></p>
-                <h2><strong>public class Main {<br>    public static void main(String[] args) {<br>        try {<br>            int result = 10 / 0;<br>        } catch (ArithmeticException e) {<br>            System.out.println("Không thể chia cho 0: " + e.getMessage());<br>        } finally {<br>            System.out.println("Hoàn thành xử lý lỗi.");<br>        }<br>    }<br>}<br>1. Các Thành Phần Cơ Bản</strong></h2>
+                <h2><strong><br>1. Các Thành Phần Cơ Bản</strong></h2>
 <h3><strong>Biến (Variable)</strong></h3>
 <p>Biến là nơi lưu trữ dữ liệu.</p>
 <ul>
