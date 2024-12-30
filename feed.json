@@ -89,6 +89,21 @@
             ],
             "date_published": "2024-12-29T21:43:15+07:00",
             "date_modified": "2024-12-29T22:18:53+07:00"
+        },
+        {
+            "id": "https://hvo153.github.io/blog-page/about-me2.html",
+            "url": "https://hvo153.github.io/blog-page/about-me2.html",
+            "title": "My infomation",
+            "summary": "Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công&hellip;",
+            "content_html": "<p>Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM.Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.</p>\n<p> </p>",
+            "author": {
+                "name": "Võ Hồng Hải"
+            },
+            "tags": [
+                   "RESUME"
+            ],
+            "date_published": "2024-12-23T15:23:15+07:00",
+            "date_modified": "2024-12-30T18:09:55+07:00"
         }
     ]
 }
