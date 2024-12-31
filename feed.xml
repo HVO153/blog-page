@@ -23,7 +23,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" alt="" />
-                    1. Các Thành Phần Cơ Bản Biến (Variable) Biến là nơi lưu&hellip;
+                    1. Các Thành Phần Cơ Bản Biến (Variable) Biến là nơi lưu trữ dữ liệu. public class VariableExample { int instanceVar = 10; // Biến instance static int staticVar = 20; // Biến static public static void main(String[] args) { int localVar = 30; //&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -166,7 +166,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/13/42.jpg" alt="" />
-                    Java là ngôn ngữ lập trình đa nền tảng (cross-platform), được phát&hellip;
+                    Java là ngôn ngữ lập trình đa nền tảng (cross-platform), được phát triển bởi James Gosling tại Sun Microsystems (nay là Oracle Corporation). Ngôn ngữ lập trình này ra đời vào năm 1995 và được thiết kế để có thể chạy trên các nền tảng khác&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -174,7 +174,7 @@
                     <p><img src="https://hvo153.github.io/blog-page/media/posts/13/42.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Java là ngôn ngữ lập trình đa nền tảng (cross-platform), được phát triển bởi James Gosling tại Sun Microsystems (nay là Oracle Corporation). Ngôn ngữ lập trình này ra đời vào năm 1995 và được thiết kế để có thể chạy trên các nền tảng khác nhau, từ máy tính cá nhân đến thiết bị di động, các máy chủ và thiết bị nhúng.</p>
 <p>Java sử dụng cấu trúc lập trình hướng đối tượng (object-oriented programming - OOP) và được xây dựng trên cơ sở của ngôn ngữ lập trình C++. Nó cung cấp một môi trường chạy ảo (virtual machine) gọi là Java Virtual Machine (JVM), giúp các chương trình Java có thể chạy trên nhiều nền tảng khác nhau mà không cần phải biên dịch lại.</p>
-<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/4.jpg" alt="" width="1200" height="800" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/4-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-xl.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/4.jpg" alt="" width="1200" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/4-xs.jpg 300w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-lg.jpg 1024w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-xl.jpg 1360w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/4-2xl.jpg 1600w"></figure>
 <p class="msg msg--highlight ">Hiện tại, Java là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay, được sử dụng rộng rãi trong các ứng dụng di động, phát triển web, lập trình trên các thiết bị nhúng, máy tính cá nhân, máy chủ, game và nhiều lĩnh vực khác.</p>
 <h2 id="article-detail-1"><strong>Các tính năng của Java</strong></h2>
 <h3><strong>Đa nền tảng</strong></h3>
@@ -183,7 +183,7 @@
 <p>Java có tính năng tự động quản lý bộ nhớ, tức là nó tự động thu dọn các vùng nhớ không sử dụng nữa để giảm thiểu các lỗi bộ nhớ. Điều này giúp cho các ứng dụng được viết bằng Java có thể chạy ổn định và tránh các lỗi liên quan đến bộ nhớ.</p>
 <h3><strong>Hỗ trợ đa luồng</strong></h3>
 <p>Java có thể xử lý đa luồng, cho phép chương trình thực hiện nhiều tác vụ cùng một lúc. Điều này giúp cho các ứng dụng có thể chạy nhanh và hiệu quả hơn, đặc biệt là khi phải xử lý nhiều tác vụ cùng một lúc.</p>
-<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/10.jpg" alt="" width="1200" height="600" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/10-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-xl.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/10.jpg" alt="" width="1200" height="600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/10-xs.jpg 300w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-lg.jpg 1024w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-xl.jpg 1360w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/10-2xl.jpg 1600w"></figure>
 <h3><strong>Tính bảo mật cao</strong></h3>
 <p>Java có các tính năng bảo mật như kiểm tra kiểu tĩnh và kiểm tra lỗi trên đường dẫn. Java được thiết kế để giảm thiểu các lỗ hổng bảo mật và các vấn đề liên quan đến an ninh.</p>
 <h3><strong>Hỗ trợ các thư viện và công cụ phát triển mạnh mẽ</strong></h3>
@@ -206,7 +206,7 @@
 <li>Hỗ trợ đa luồng</li>
 </ul>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/14-3.png" alt="" width="1600" height="898" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-xs.png 320w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-sm.png 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-md.png 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-xl.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/13/14-3.png" alt="" width="1600" height="898" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-xs.png 300w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-sm.png 480w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-md.png 768w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-lg.png 1024w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-xl.png 1360w ,https://hvo153.github.io/blog-page/media/posts/13/responsive/14-3-2xl.png 1600w"></figure>
 <p> </p>
 <h3><strong>Nhược điểm của Java</strong></h3>
 <ul>
@@ -232,7 +232,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/12/9.PNG" alt="" />
-                    Trong quá trình phát triển ứng dụng, Error và Exception là những&hellip;
+                    Trong quá trình phát triển ứng dụng, Error và Exception là những vấn đề không thể tránh khỏi. Hiểu cách xử lý chúng là chìa khóa để đảm bảo ứng dụng hoạt động ổn định và thân thiện với người dùng. JavaScript cung cấp cơ&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -301,7 +301,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/11/7.png" alt="" />
-                    Function (hàm) là một trong những khối xây dựng quan trọng nhất&hellip;
+                    Function (hàm) là một trong những khối xây dựng quan trọng nhất trong JavaScript, giúp bạn tái sử dụng mã, tổ chức logic, và làm cho chương trình dễ bảo trì hơn. Tùy vào nhu cầu, JavaScript cung cấp nhiều cách định nghĩa hàm, từ&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -362,7 +362,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/10/4.png" alt="" />
-                    1. Condition Execution (Cấu trúc điều kiện) if-else: Đây là cấu trúc&hellip;
+                    1. Condition Execution (Cấu trúc điều kiện) if-else: Đây là cấu trúc phổ biến nhất để xử lý điều kiện. Tôi luôn cố gắng giữ điều kiện ngắn gọn và sử dụng toán tử logic (&amp;&amp;, ||) để kết hợp nhiều điều kiện. switch-case: Thích&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -409,7 +409,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/9/21.PNG" alt="" />
-                    Toán tử số học (Arithmetic Operators): Các toán tử như +, -,&hellip;
+                    Toán tử số học (Arithmetic Operators): Các toán tử như +, -, *, /, % rất cơ bản nhưng có thể kết hợp với các phương thức khác như Math.floor(), Math.random() để tạo ra logic phức tạp. Tôi thường dùng % để kiểm tra số&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -482,7 +482,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/8/12.png" alt="" />
-                    Khi làm việc với JavaScript, việc hiểu cách sử dụng biến (variable)&hellip;
+                    Khi làm việc với JavaScript, việc hiểu cách sử dụng biến (variable) là rất quan trọng. Bạn cần chọn đúng từ khóa như let, const hoặc var dựa trên nhu cầu và ngữ cảnh sử dụng. Tôi thường dùng const cho những giá trị cố&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -504,7 +504,7 @@
 <p><span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(strNum + num); <span class="hljs-comment">// "123456" (nối chuỗi, không phải cộng số)</span> <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-title class_">Number</span>(strNum) + num); <span class="hljs-comment">// 579 (ép kiểu đúng cách)</span></p>
 <p> </p>
 <p><br>Tên của các biến trong JavaScript có thể là hầu như bất kỳ chuỗi ký tự nào. Tuy nhiên, có một tập hợp các từ dành riêng không thể được sử dụng để đặt tên cho các biến, hàm hoặc bất kỳ thứ gì khác. Chúng là các phần không thể thiếu của ngôn ngữ và được gán ý nghĩa không thể thay đổi. Dưới đây bạn sẽ tìm thấy danh sách các từ đó.</p>
-<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/8/8-2.PNG" alt="" width="1030" height="659" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-xs.PNG 320w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-sm.PNG 480w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-md.PNG 768w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-xl.PNG 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/8/8-2.PNG" alt="" width="1030" height="659" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-xs.PNG 300w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-sm.PNG 480w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-md.PNG 768w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-lg.PNG 1024w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-xl.PNG 1360w ,https://hvo153.github.io/blog-page/media/posts/8/responsive/8-2-2xl.PNG 1600w"></figure>
 </div>
             ]]>
         </content>
@@ -523,7 +523,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://hvo153.github.io/blog-page/media/posts/6/6.PNG" alt="" />
-                    JavaScript là gì? JavaScript viết tắt là JS à ngôn ngữ lập trình phổ&hellip;
+                    JavaScript là gì? JavaScript viết tắt là JS à ngôn ngữ lập trình phổ biến dùng để tạo ra các trang web tương tác. Được tích hợp và nhúng vào HTML giúp website trở nên sống động hơn. JavaScript đóng vai trò như một phần của trang web, thực&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -531,7 +531,7 @@
                     <p><img src="https://hvo153.github.io/blog-page/media/posts/6/6.PNG" class="type:primaryImage" alt="" /></p>
                 <h2 id="javascript-la-gi" class="wp-block-heading ftwp-heading">JavaScript là gì?</h2>
 <p class="align-left">JavaScript viết tắt là JS à <a class="rank-math-link" href="https://vietnix.vn/ngon-ngu-lap-trinh/">ngôn ngữ lập trình</a> phổ biến dùng để tạo ra các trang web tương tác. Được tích hợp và nhúng vào <a href="https://vietnix.vn/html-la-gi/" target="_blank" rel="noreferrer noopener">HTML</a> giúp website trở nên sống động hơn. JavaScript đóng vai trò như một phần của trang web, thực thi cho phép Client-Side Script từ phía người dùng cũng như phía máy chủ (<a href="https://vietnix.vn/nodejs-la-gi/" target="_blank" rel="noreferrer noopener">Nodejs</a>) tạo ra các trang web động.</p>
-<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/6/5.PNG" alt="" width="683" height="312" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/6/responsive/5-xs.PNG 320w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-sm.PNG 480w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-md.PNG 768w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-xl.PNG 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/6/5.PNG" alt="" width="683" height="312" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/6/responsive/5-xs.PNG 300w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-sm.PNG 480w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-md.PNG 768w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-lg.PNG 1024w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-xl.PNG 1360w ,https://hvo153.github.io/blog-page/media/posts/6/responsive/5-2xl.PNG 1600w"></figure>
 <p class="align-left">JavaScript là một ngôn ngữ lập trình thông dịch với khả năng hướng đến đối tượng. Là một trong 3 ngôn ngữ chính trong lập trình web và có mối liên hệ lẫn nhau để xây dựng một website sống động, chuyên nghiệp, bạn có thể nhìn tổng quan như sau:</p>
 <ul class="wp-block-list">
 <li><strong>HTML</strong>: Cung cấp cấu trúc cơ bản, hỗ trợ trong việc xây dựng layout, thêm nội dung dễ dàng trên website.</li>
@@ -553,13 +553,13 @@
         <updated>2024-12-23T15:23:15+07:00</updated>
             <summary>
                 <![CDATA[
-                    Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công&hellip;
+                    Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM. Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp với bằng kỹ sư&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p> </p>
-<figure class="post__image align-left"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/1/vohonghai.jpg" alt="" width="204" height="272" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xs.jpg 320w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xl.jpg 1024w"></figure>
+<figure class="post__image align-left"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/1/vohonghai.jpg" alt="" width="204" height="272" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xs.jpg 300w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-lg.jpg 1024w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xl.jpg 1360w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-2xl.jpg 1600w"></figure>
 <p>Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM.<br><br></p>
 <p>Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp với bằng kỹ sư công nghệ phần mềm và xa hơn trở thành  Web Developer.</p>
 <p>Sinh ngày 15/03/2003</p>
