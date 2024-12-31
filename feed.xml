@@ -3,7 +3,7 @@
     <title>Hai&#x27;s Web</title>
     <link href="https://hvo153.github.io/blog-page/feed.xml" rel="self" />
     <link href="https://hvo153.github.io/blog-page" />
-    <updated>2024-12-31T20:39:19+07:00</updated>
+    <updated>2024-12-31T22:00:27+07:00</updated>
     <author>
         <name>Võ Hồng Hải</name>
     </author>
@@ -538,6 +538,40 @@
 <li><strong><a href="https://vietnix.vn/css-la-gi/" target="_blank" rel="noreferrer noopener">CSS</a></strong>: Được sử dụng để kiểm soát và hỗ trợ việc định dạng thiết kế, bố cục, style, màu sắc,…</li>
 <li><strong>JavaScript</strong>: Tạo nên những nội dung “động” trên website.</li>
 </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Thông tin của tôi</title>
+        <author>
+            <name>Võ Hồng Hải</name>
+        </author>
+        <link href="https://hvo153.github.io/blog-page/about-me2.html"/>
+        <id>https://hvo153.github.io/blog-page/about-me2.html</id>
+        <media:content url="https://hvo153.github.io/blog-page/media/posts/1/158824-banner-post.png" medium="image" />
+            <category term="RESUME"/>
+
+        <updated>2024-12-23T15:23:15+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hvo153.github.io/blog-page/media/posts/1/158824-banner-post.png" alt="" />
+                    Võ Hồng Hải Sinh viên Đại học HUTECH. Ngày sinh: 15/03/2003. Địa chỉ: Quận 9,Thành phố Thủ Đức. Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hvo153.github.io/blog-page/media/posts/1/158824-banner-post.png" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/1/vohonghai.jpg" alt="" width="332" height="443" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xs.jpg 300w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-lg.jpg 1024w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xl.jpg 1360w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-2xl.jpg 1600w"></figure>
+<p class="msg msg--highlight "><span style="color: #e67e23;">Võ Hồng Hải</span></p>
+<p class="msg msg--highlight "><span style="color: #4731e9;">Sinh viên Đại học HUTECH.</span></p>
+<p class="msg msg--highlight "><span style="color: #62d6f5;">Ngày sinh: 15/03/2003.</span></p>
+<p class="msg msg--highlight "><span style="color: #e03e2d;">Địa chỉ: Quận 9,Thành phố Thủ Đức.</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p class="msg msg--info">Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp với bằng kỹ sư công nghệ phần mềm và xa hơn trở thành Web Developer.</p>
+<p><strong>Slogan: Biết dừng khi cần phải dừng.</strong></p>
             ]]>
         </content>
     </entry>
