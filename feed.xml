@@ -3,7 +3,7 @@
     <title>Hai&#x27;s Web</title>
     <link href="https://hvo153.github.io/blog-page/feed.xml" rel="self" />
     <link href="https://hvo153.github.io/blog-page" />
-    <updated>2024-12-30T23:16:30+07:00</updated>
+    <updated>2024-12-31T20:38:32+07:00</updated>
     <author>
         <name>Võ Hồng Hải</name>
     </author>
@@ -16,19 +16,19 @@
         </author>
         <link href="https://hvo153.github.io/blog-page/cac-thanh-phan-trong-java.html"/>
         <id>https://hvo153.github.io/blog-page/cac-thanh-phan-trong-java.html</id>
-        <media:content url="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" medium="image" />
+        <media:content url="https://hvo153.github.io/blog-page/media/posts/14/JAVA.webp" medium="image" />
             <category term="BLOGS"/>
 
         <updated>2024-12-30T18:42:50+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" alt="" />
+                        <img src="https://hvo153.github.io/blog-page/media/posts/14/JAVA.webp" alt="" />
                     1. Các Thành Phần Cơ Bản Biến (Variable) Biến là nơi lưu trữ dữ liệu. public class VariableExample { int instanceVar = 10; // Biến instance static int staticVar = 20; // Biến static public static void main(String[] args) { int localVar = 30; //&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hvo153.github.io/blog-page/media/posts/14/13.jfif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hvo153.github.io/blog-page/media/posts/14/JAVA.webp" class="type:primaryImage" alt="" /></p>
                 <h2><strong><br>1. Các Thành Phần Cơ Bản</strong></h2>
 <h3><strong>Biến (Variable)</strong></h3>
 <p>Biến là nơi lưu trữ dữ liệu.</p>
@@ -538,33 +538,6 @@
 <li><strong><a href="https://vietnix.vn/css-la-gi/" target="_blank" rel="noreferrer noopener">CSS</a></strong>: Được sử dụng để kiểm soát và hỗ trợ việc định dạng thiết kế, bố cục, style, màu sắc,…</li>
 <li><strong>JavaScript</strong>: Tạo nên những nội dung “động” trên website.</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thông tin của tôi</title>
-        <author>
-            <name>Võ Hồng Hải</name>
-        </author>
-        <link href="https://hvo153.github.io/blog-page/about-me2.html"/>
-        <id>https://hvo153.github.io/blog-page/about-me2.html</id>
-            <category term="RESUME"/>
-
-        <updated>2024-12-23T15:23:15+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM. Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp với bằng kỹ sư&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<figure class="post__image align-left"><img loading="lazy"  src="https://hvo153.github.io/blog-page/media/posts/1/vohonghai.jpg" alt="" width="204" height="272" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xs.jpg 300w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-sm.jpg 480w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-md.jpg 768w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-lg.jpg 1024w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-xl.jpg 1360w ,https://hvo153.github.io/blog-page/media/posts/1/responsive/vohonghai-2xl.jpg 1600w"></figure>
-<p>Tôi tên là Võ Hồng Hải, sinh viên Trường Đại học Công Nghệ TP.HCM.<br><br></p>
-<p>Hiện tại tôi là sinh viên năm thứ 4 ngành Công nghệ thông tin và chuyên ngành Công nghệ phần mềm.Dự định tương lai gần tốt nghiệp với bằng kỹ sư công nghệ phần mềm và xa hơn trở thành  Web Developer.</p>
-<p>Sinh ngày 15/03/2003</p>
-<p>Hiện nay sống tại Quận 9,Thành phố Thủ Đức</p>
-<p class="msg--highlight">Slogan: Biết dừng khi cần phải dừng, lạc quan trong thử thách.</p>
             ]]>
         </content>
     </entry>
